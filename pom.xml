@@ -24,7 +24,4 @@
 </dependency>
 
   </dependencies>
-  <build>
-    <finalName>getting-started-tomcat</finalName>
-  </build>
 </project>
